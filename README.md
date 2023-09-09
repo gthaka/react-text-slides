@@ -1,5 +1,7 @@
 # React: Slideshow App
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/gthaka/react-text-slides)
+
 ## Environment 
 
 - React Version: 16.13.1
