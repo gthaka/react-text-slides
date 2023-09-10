@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-text-slides/static/css/main.0b24aa5e.css",
+    "main.js": "/react-text-slides/static/js/main.f9097aad.js",
+    "stencil-polyfills-dom.js": "/react-text-slides/static/js/stencil-polyfills-dom.5a6f044d.chunk.js",
+    "stencil-polyfills-core-js.js": "/react-text-slides/static/js/stencil-polyfills-core-js.495cbb35.chunk.js",
+    "stencil-polyfills-css-shim.js": "/react-text-slides/static/js/stencil-polyfills-css-shim.5a3f4b64.chunk.js",
+    "stencil-h8k-logo_2-entry-js.js": "/react-text-slides/static/js/stencil-h8k-logo_2-entry-js.b1c7ff22.chunk.js",
+    "index.html": "/react-text-slides/index.html",
+    "main.0b24aa5e.css.map": "/react-text-slides/static/css/main.0b24aa5e.css.map",
+    "main.f9097aad.js.map": "/react-text-slides/static/js/main.f9097aad.js.map",
+    "stencil-polyfills-dom.5a6f044d.chunk.js.map": "/react-text-slides/static/js/stencil-polyfills-dom.5a6f044d.chunk.js.map",
+    "stencil-polyfills-core-js.495cbb35.chunk.js.map": "/react-text-slides/static/js/stencil-polyfills-core-js.495cbb35.chunk.js.map",
+    "stencil-polyfills-css-shim.5a3f4b64.chunk.js.map": "/react-text-slides/static/js/stencil-polyfills-css-shim.5a3f4b64.chunk.js.map",
+    "stencil-h8k-logo_2-entry-js.b1c7ff22.chunk.js.map": "/react-text-slides/static/js/stencil-h8k-logo_2-entry-js.b1c7ff22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b24aa5e.css",
+    "static/js/main.f9097aad.js"
+  ]
+}
